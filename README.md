@@ -28,12 +28,12 @@ A simple GPA calculator web app built with **pure JavaScript**, HTML, and CSS. U
 
 ## Group Task Division
 
-| Role                                    | Team Member |
-
- README                                       all of us
- html                                         Nazira
- JS                                           Allan
- CSS                                          Tito
+| Role      | Team Member |
+|-----------|-------------|
+| HTML      | Nazira      |
+| CSS       | Tito        |
+| JS        | Allan       |
+| README.md | Everyone    |
 
 
     
