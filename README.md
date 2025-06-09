@@ -20,5 +20,21 @@ A simple GPA calculator web app built with **pure JavaScript**, HTML, and CSS. U
 - JavaScript (No frameworks)
 - Git & GitHub
 
+## Group Members 👥
+
+- Allan TUMUSIME
+- TITO Jean
+- Nazira UMUCYO
+
+## Group Task Division
+
+| Role               | Team Member |
+
+ README                 All of us
+ HTML                   Nazira      
+ JS                     Allan       
+ CSS                    Tito
+
+    
 
 
